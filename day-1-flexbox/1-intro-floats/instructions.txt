@@ -10,4 +10,4 @@ Write the grid in mobile-first fashion.
 
 * Styles outside the media queries are universal and work to display the site in mobile format.
 
-* Two media queries are provided for "tablet" and "desktop" dimensions. Write styles that override the mobile layouts here. 
+* Two media queries are provided for "tablet" and "desktop" dimensions. Write styles that override the mobile layouts here.
